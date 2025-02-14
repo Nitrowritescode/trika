@@ -1,6 +1,4 @@
-import React from 'react'
-
-function Blog() {
+export default function BlogPage() {
   return (
     <div className=''>
           <div className="bg-primary text-white py-16 text-center">
@@ -13,4 +11,4 @@ function Blog() {
   )
 }
 
-export default Blog
+
