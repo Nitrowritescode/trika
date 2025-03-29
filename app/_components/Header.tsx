@@ -109,7 +109,7 @@ export default function Header() {
           <span>
             <LiaPhoneSquareSolid size={30} />
           </span>
-          <span className="">:18448287000</span>
+          <span className="">:18xxxxxxx00</span>
         </div>
       </div>
 
@@ -120,7 +120,7 @@ export default function Header() {
             href="/"
             className="font-bold text-xl md:text-2xl lg:text-xl px-4"
           >
-            Trika Financials
+            XYZ Financials
           </Link>
 
           {/* Desktop Navigation */}
@@ -251,7 +251,7 @@ export default function Header() {
                           href="/about"
                           className="block py-2 hover:text-primary"
                         >
-                          About Trika Financials
+                          About XYZ Financials
                         </Link>
                       </AccordionContent>
                     </AccordionItem>
